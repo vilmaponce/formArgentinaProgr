@@ -1,0 +1,25 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Márgenes y espaciado en el formulario */
+#taskForm {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Espaciado entre el botón "Enviar" y el campo "Estado Seleccionado" */
+#taskForm .btn {
+    margin-top: 10px;
+}
+
+/* Estilo para el campo de imagen */
+#taskForm #image {
+    margin-top: 10px;
+}
